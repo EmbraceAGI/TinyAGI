@@ -12,6 +12,7 @@ cp .env.example .env
 ```
 
 * config
+Set the `Environment Variables` in .env file, such as:
 ```
 OPENAI_API_KEY=sk-xxxx
 OBJECTIVE=Solve world hunger
